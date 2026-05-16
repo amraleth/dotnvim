@@ -3,7 +3,7 @@ return {
         "NeogitOrg/neogit",
         cmd = "Neogit",
         keys = {
-            { "<leader>gg", "<cmd>Neogit<CR>",        desc = "Neogit" },
+            { "<leader>gs", "<cmd>Neogit<CR>",        desc = "Neogit" },
             { "<leader>gc", "<cmd>Neogit commit<CR>", desc = "Neogit commit" },
             { "<leader>gp", "<cmd>Neogit pull<CR>",   desc = "Neogit pull" },
             { "<leader>gP", "<cmd>Neogit push<CR>",   desc = "Neogit push" },
